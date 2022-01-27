@@ -68,7 +68,7 @@ int main(int argc, char* argv[]) {
 
     for (int i = 0; i < argc; i++) {
         if (strcmp(argv[i], "-h") == 0) {
-            printf("Usage: raincoat.exe -url <url with raw shellcode> [-lsass | -pid <num>]\n\n");
+            printf("Usage: raincoat.exe -pid <num>]\n\n");
             printf("-pid <num>: inject into remote process given PID\n");
             return 0;
         }
