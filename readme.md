@@ -3,3 +3,4 @@
 ### Greetz : 
 ### https://github.com/ajpc500/BOFs/tree/main/SyscallsInject
 ### https://github.com/JohnWoodman/stealthInjector/
+### https://github.com/jthuraisamy/SysWhispers
